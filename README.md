@@ -19,8 +19,6 @@ Algumas das funcionalidades:
 
 A simple ticket system made in React with Typescript, Firebase and Material UI, but that better reflects my current level of programming, it has some really cool features and the structure to scale as needed.
 
-Note: The database is programmed to reset every week, and for demonstration purposes this project does not include creating users or deleting items. And if i needed to use some Rest API, the integration would be done with "axios".
-
 Some of the features:
 
 - Different levels of access to the system
