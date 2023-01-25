@@ -25,7 +25,7 @@ export default function AddCustomer() {
     async function addCustomer() {
         setLoading(true);
         try {
-            await addDoc('clients', customer);
+            await addDoc('customers', customer);
             setLoading(false);
             toast.success(localetext.pages.AddCustomer.functions.addCustomer.successToastText);
             setCustomer({ name: '', email: '' });

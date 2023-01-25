@@ -33,7 +33,7 @@ export default function EditCustomer() {
     async function editClient() {
         setLoading(true);
         try {
-            await editDoc('clients', clientId || '', client);
+            await editDoc('customers', clientId || '', client);
             setLoading(false);
             toast.success(localetext.pages.EditCustomer.functions.editClient.successToastText);
 
@@ -48,7 +48,7 @@ export default function EditCustomer() {
         async function getClientInfo() {
             setLoadingPage(true);
             try {
-                let data = await getDoc('clients', clientId || '');
+                let data = await getDoc('customers', clientId || '');
                 if (!data) return toast.error(localetext.pages.EditCustomer.functions.getClientInfo.errorToastTextNotFound);
                 setClient(data);
                 setLoadingPage(false);

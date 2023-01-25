@@ -31,7 +31,7 @@ export default function Customers() {
   async function getCustomers() {
     setLoading(true);
     try {
-      let data = await getDocs('clients');
+      let data = await getDocs('customers');
       setCustomers(data);
       setLoading(false);
       return;

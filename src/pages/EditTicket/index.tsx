@@ -63,7 +63,7 @@ export default function EditTicket() {
         async function getTicketInfo() {
             setLoadingPage(true);
             try {
-                let data1 = await getDocs('clients');
+                let data1 = await getDocs('customers');
                 setCustomers(data1);
 
                 let data2 = await getDoc('tickets', ticketId || '');

@@ -31,7 +31,6 @@ export default function Login() {
   const [senha, setSenha] = useState('');
   const [email, setEmail] = useState('');
 
-
   const sxCredentials = { '&:hover': { bgcolor: 'action.hover' }, cursor: 'pointer', p: 1 }
 
   return (
@@ -84,7 +83,7 @@ export default function Login() {
               flexGrow={1}
               variant='body2'
               textAlign='center'
-              onClick={() => { setEmail('atendente@acesso.com'); setSenha('atendente123') }}
+              onClick={() => { setEmail('default@acesso.com'); setSenha('default123') }}
             >
               {localetext.pages.Login.normalUserText}
             </Typography>

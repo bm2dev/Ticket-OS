@@ -69,7 +69,7 @@ export default function AddTicket() {
         async function getCustomers() {
             setLoadingCustomers(true);
             try {
-                let data = await getDocs('clients');
+                let data = await getDocs('customers');
                 setCustomers(data);
                 setLoadingCustomers(false);
 
