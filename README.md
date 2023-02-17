@@ -4,7 +4,7 @@ https://tickets.bm2dev.com/#/
 
 ## Bem Vindo ao Chamados OS
 
-Um simples sistema de chamados feito em React com Typescript, Firebase e Material UI, porém que reflete melhor meu nível atual de programação, e conta com com algumas funcionalidades bem legais e a estrutura para escalar o quanto for necessário.
+Um simples sistema de chamados feito em React com Typescript, Firebase e Material UI, porém que reflete melhor meu nível atual de programação, com a estrutura para escalar o quanto for necessário. O sistema conta com um sistema de seleção de idiomas, e para o desenvolvimento dele não foi utilizada nenhuma biblioteca de locale pois essa parte foi feita como um desafio para ver se eu seria capaz de implementar essa funcionalidade do zero.
 
 Algumas das funcionalidades:
 
@@ -19,7 +19,7 @@ Algumas das funcionalidades:
 
 ## Welcome to Ticket OS
 
-A simple ticket system made in React with Typescript, Firebase and Material UI, but that better reflects my current level of programming, it has some really cool features and the structure to scale as needed.
+A simple calling system made in React with Typescript, Firebase and Material UI, but that better reflects my current level of programming, with the structure to scale as much as necessary. The system has a language selection system, and for its development no locale library was used because this part was made as a challenge to see if I would be able to implement this functionality from scratch.
 
 Some of the features:
 
