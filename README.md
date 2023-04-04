@@ -4,30 +4,18 @@ https://tickets.bm2dev.com/#/
 
 ## Bem Vindo ao Chamados OS
 
-Um simples sistema de chamados feito em React com Typescript, Firebase e Material UI, porém que reflete melhor meu nível atual de programação, com a estrutura para escalar o quanto for necessário. O sistema conta com um sistema de seleção de idiomas, e para o desenvolvimento dele não foi utilizada nenhuma biblioteca de locale pois essa parte foi feita como um desafio para ver se eu seria capaz de implementar essa funcionalidade do zero.
+Desenvolvi o sistema de chamados em React com Typescript, Firebase e Material UI, que representa bem meu nível atual de programação e possui uma estrutura escalável. O destaque fica por conta do sistema de seleção de idiomas, desenvolvido do zero, sem o uso de bibliotecas, como um desafio pessoal.
 
-Algumas das funcionalidades:
+Este projeto conta com diversas funcionalidades importantes, como diferentes níveis de acesso, escolha de idioma (inglês ou português), modo claro/escuro, autenticação com criptografia de informações, rotas dinâmicas e protegidas, tabelas interativas e CRUD utilizando o Firebase.
 
-- Diferentes níveis de acesso ao sistema
-- Escolha de idioma (Inglês ou Português)
-- Modo Claro / Escuro
-- Autenticação com criprografia de informações
-- Rotas dinâmicas e protegidas
-- 100% Responsivo
-- Tabelas interativas
-- CRUD (Utilizando o firebase)
+Além disso, o sistema é 100% responsivo, adaptando-se a qualquer dispositivo. Essa experiência me permitiu aprimorar minhas habilidades de desenvolvimento e entender como implementar funcionalidades avançadas de segurança e internacionalização em aplicações web.
 
 ## Welcome to Ticket OS
 
-A simple calling system made in React with Typescript, Firebase and Material UI, but that better reflects my current level of programming, with the structure to scale as much as necessary. The system has a language selection system, and for its development no locale library was used because this part was made as a challenge to see if I would be able to implement this functionality from scratch.
+I developed the call system in React with Typescript, Firebase and Material UI, which represents well my current level of programming and has a scalable structure. The highlight is the language selection system, developed from scratch, without the use of libraries, as a personal challenge.
 
-Some of the features:
+This project has several important functionalities, such as different access levels, language choice (English or Portuguese), light/dark mode, authentication with information encryption, dynamic and protected routes, interactive tables and CRUD using Firebase.
 
-- Different levels of access to the system
-- Choice of language (English or Portuguese)
-- Light/Dark mode
-- Authentication with information encryption
-- Dynamic and protected routes
-- 100% Responsive
-- Interactive tables
-- CRUD (Using firebase)
+In addition, the system is 100% responsive, adapting to any device. This experience allowed me to improve my development skills and understand how to implement advanced security and internationalization features in web applications.
+
+Translated with www.DeepL.com/Translator (free version)
