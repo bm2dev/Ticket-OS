@@ -2,20 +2,22 @@
 
 https://tickets.bm2dev.com/#/
 
-## Bem Vindo ao Chamados OS
+O Ticket-OS é um sistema de chamados desenvolvido em React com Typescript, Firebase e Material UI, que representa o nível atual de programação do desenvolvedor, e possui uma estrutura escalável.
 
-Desenvolvi o sistema de chamados em React com Typescript, Firebase e Material UI, que representa bem meu nível atual de programação e possui uma estrutura escalável. O destaque fica por conta do sistema de seleção de idiomas, desenvolvido do zero, sem o uso de bibliotecas, como um desafio pessoal.
+O projeto conta com diversas funcionalidades importantes, como diferentes níveis de acesso, escolha de idioma (inglês ou português), modo claro/escuro, autenticação com criptografia de informações, rotas dinâmicas e protegidas, tabelas interativas e CRUD utilizando o Firebase.
 
-Este projeto conta com diversas funcionalidades importantes, como diferentes níveis de acesso, escolha de idioma (inglês ou português), modo claro/escuro, autenticação com criptografia de informações, rotas dinâmicas e protegidas, tabelas interativas e CRUD utilizando o Firebase.
+O destaque fica por conta do sistema de seleção de idiomas, que foi desenvolvido do zero, sem o uso de bibliotecas, como um desafio pessoal.
 
-Além disso, o sistema é 100% responsivo, adaptando-se a qualquer dispositivo. Essa experiência me permitiu aprimorar minhas habilidades de desenvolvimento e entender como implementar funcionalidades avançadas de segurança e internacionalização em aplicações web.
+O sistema é 100% responsivo, adaptando-se a qualquer dispositivo. A experiência de desenvolvimento permitiu ao desenvolvedor aprimorar suas habilidades e entender como implementar funcionalidades avançadas de segurança e internacionalização em aplicações web.
 
-## Welcome to Ticket OS
+## Como usar
+Para executar o Ticket-OS, siga os seguintes passos:
 
-I developed the call system in React with Typescript, Firebase and Material UI, which represents well my current level of programming and has a scalable structure. The highlight is the language selection system, developed from scratch, without the use of libraries, as a personal challenge.
+1. Baixe o repositório do projeto.
+2. Abra o terminal na pasta raiz do projeto e execute o comando npm install para instalar as dependências do projeto.
+3. Execute o comando npm start para iniciar o servidor local.
+4. Acesse a aplicação no navegador através do endereço http://localhost:3000.
 
-This project has several important functionalities, such as different access levels, language choice (English or Portuguese), light/dark mode, authentication with information encryption, dynamic and protected routes, interactive tables and CRUD using Firebase.
-
-In addition, the system is 100% responsive, adapting to any device. This experience allowed me to improve my development skills and understand how to implement advanced security and internationalization features in web applications.
-
-Translated with www.DeepL.com/Translator (free version)
+## Requisitos
+Node.js 10 ou superior.
+npm 6 ou superior.
