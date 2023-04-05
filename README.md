@@ -17,7 +17,3 @@ Para executar o Ticket-OS, siga os seguintes passos:
 2. Abra o terminal na pasta raiz do projeto e execute o comando npm install para instalar as dependências do projeto.
 3. Execute o comando npm start para iniciar o servidor local.
 4. Acesse a aplicação no navegador através do endereço http://localhost:3000.
-
-## Requisitos
-Node.js 10 ou superior.
-npm 6 ou superior.
