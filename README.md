@@ -1,7 +1,5 @@
 # Ticket-OS
 
-https://tickets.bm2dev.com/#/
-
 O Ticket-OS é um sistema de chamados desenvolvido em React com Typescript, Firebase e Material UI, que representa o nível atual de programação do desenvolvedor, e possui uma estrutura escalável.
 
 O projeto conta com diversas funcionalidades importantes, como diferentes níveis de acesso, escolha de idioma (inglês ou português), modo claro/escuro, autenticação com criptografia de informações, rotas dinâmicas e protegidas, tabelas interativas e CRUD utilizando o Firebase.
